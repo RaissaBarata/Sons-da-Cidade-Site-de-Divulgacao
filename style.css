@@ -46,7 +46,7 @@ nav a:hover {
 }
 
 .banner{
-    background-image: url(/imagens/fotoshow.jpg);
+    background-image: url(imagens/fotoshow.jpg);
     background-size: cover;
     background-position: center;
     height: 50vw;
@@ -150,7 +150,7 @@ section ul h3 {
 
   .novidades{
     height: 180px;
-    background-image: url(/imagens/ben-o-bro-wpU4veNGnHg-unsplash.jpg);
+    background-image: url(imagens/ben-o-bro-wpU4veNGnHg-unsplash.jpg);
     background-size: cover;
     background-position: center;
     box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.596);
